@@ -28,28 +28,27 @@ A **tuple** in Python is an ordered collection of elements enclosed within paren
 ---
 
 ## Algorithms
+**Algorithm 1**: Student Result Evaluation (Tuple Unpacking & Decision Making)
+- Start
+- Store subject, marks, and grade in a tuple
+- Unpack the tuple into variables subject, marks, and grade
+- Display the subject, marks, and grade
+- Check if marks ≥ 75
+- If true, display “Distinction”
+- Else, display “No Distinction”
+- Stop
 
-### Problem 1: Operations on Tuple
+**Algorithm 2**: Attendance Analysis Using Tuple
+- Start
+- Store attendance status ("P" and "A") in a tuple
+- Count the number of "P" using the count() method
+- Count the number of "A" using the count() method
+- Display total present days
+- Display total absent days
+- Check whether "A" is present in the tuple
+- If true, display “Employee was absent at least once”
+- Stop
 
-**Steps:**
-
-1. Create a tuple with multiple elements.
-2. Access elements of the tuple using indexing.
-3. Display selected elements of the tuple.
-4. Print the complete tuple.
-
----
-
-### Problem 2: Tuple Properties Program
-
-**Steps:**
-
-1. Create a tuple with different values.
-2. Find the length of the tuple.
-3. Access elements using slicing.
-4. Display the results.
-
----
 
 ## Conclusion
 
