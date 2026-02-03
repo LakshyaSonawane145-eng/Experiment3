@@ -12,20 +12,18 @@ To study and understand the concept of **tuples in Python** and perform basic op
 
 A **tuple** in Python is an ordered collection of elements enclosed within parentheses `()`. Tuples are **immutable**, meaning once a tuple is created, its elements cannot be changed. Tuples can store multiple values of different data types such as integers, floats, strings, etc.
 
-Key characteristics of tuples:
-
-* Ordered
-* Immutable
-* Allows duplicate values
-* Can store different data types
-
-Example:
-
-```python
-t = (10, 20, "python", 3.5)
-```
-
-Tuples are mainly used when the data should remain constant throughout the program.
+- Key characteristics of tuples:
+- A tuple is an ordered and immutable collection in Python.
+- Tuples are created using round brackets ().
+- They can store multiple data types in a single tuple.
+- Tuple elements are accessed using indexing and negative indexing.
+- Slicing is used to extract a part of a tuple.
+- Tuples support repetition using the * operator.
+- Built-in functions like len(), max(), min(), sum(), and sorted() work on tuples.
+- Tuple unpacking allows assigning values to multiple variables at once.
+- Tuples have limited methods like count() and index().
+- Due to immutability, tuples ensure data safety and integrity.
+- Tuples are mainly used when the data should remain constant throughout the program.
 
 ---
 
