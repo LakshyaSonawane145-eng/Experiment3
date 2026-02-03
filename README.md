@@ -31,7 +31,7 @@ Tuples are mainly used when the data should remain constant throughout the progr
 
 ## Algorithms
 
-### DIY Question 1: Operations on Tuple
+### Problem 1: Operations on Tuple
 
 **Steps:**
 
@@ -42,7 +42,7 @@ Tuples are mainly used when the data should remain constant throughout the progr
 
 ---
 
-### DIY Question 2: Tuple Properties Program
+### Problem 2: Tuple Properties Program
 
 **Steps:**
 
